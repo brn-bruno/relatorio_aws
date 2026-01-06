@@ -44,9 +44,9 @@ O Amazon EC2 Auto Scaling ajusta automaticamente a quantidade de instâncias EC2
 A implementação de ferramentas na empresa *Abstergo Industries tem como esperado redução nos custos*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
-AWS Cost Explorer - Documentação oficial: https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html <br/>
-Amazon S3 Intelligent-Tiering - Documentação oficial: https://docs.aws.amazon.com/AmazonS3/latest/userguide/intelligent-tiering.html <br/>
-Amazon EC2 Auto Scaling - Documentação oficial: https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html <br/>
+AWS Cost Explorer - Documentação oficial: <a href="https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html" target="_blank" rel="noopener noreferrer">
+Amazon S3 Intelligent-Tiering - Documentação oficial: <a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/intelligent-tiering.html" target="_blank" rel="noopener noreferrer">
+Amazon EC2 Auto Scaling - Documentação oficial: <a href="https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html" target="_blank" rel="noopener noreferrer">
 
 Assinatura do Responsável pelo Projeto: <br/>
 Bruno de Paula Teixeira
